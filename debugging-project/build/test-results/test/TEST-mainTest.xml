@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="mainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-14T14:29:27" hostname="DESKTOP-F3OBQ1D" time="0.044">
+<testsuite name="mainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-10-14T14:41:38" hostname="DESKTOP-F3OBQ1D" time="0.082">
   <properties/>
-  <testcase name="testOrderAndBoundaries()" classname="mainTest" time="0.044"/>
+  <testcase name="testDuplicates()" classname="mainTest" time="0.069"/>
+  <testcase name="testOrderAndBoundaries()" classname="mainTest" time="0.002"/>
+  <testcase name="testForOnlyOneNumber()" classname="mainTest" time="0.002"/>
+  <testcase name="testNegativeNumbers()" classname="mainTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
